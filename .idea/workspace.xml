@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1b7e37c4-055c-4426-a006-7a7e8bb9d7b6" name="Changes" comment="asspussy">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="1b7e37c4-055c-4426-a006-7a7e8bb9d7b6" name="Changes" comment="cuck xd">
+      <change afterPath="$PROJECT_DIR$/logs/FXGL-01-Juni-2022-00.57.37.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/FXGL-01-Juni-2022-00.59.31.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/prog2/uwu/Factory.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/de/prog2/uwu/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/prog2/uwu/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,13 +30,16 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="29w6eVzlsRKUtDxdmyn778CPWBA" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -84,7 +88,7 @@
       <updated>1654011900201</updated>
       <workItem from="1654012028473" duration="2918000" />
       <workItem from="1654019731907" duration="773000" />
-      <workItem from="1654020558963" duration="3916000" />
+      <workItem from="1654020558963" duration="7844000" />
     </task>
     <task id="LOCAL-00001" summary="asspussy">
       <created>1654022777527</created>
@@ -93,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654022777528</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="cuck xd">
+      <created>1654034792050</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1654034792050</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,8 +122,10 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="asspussy" />
-    <option name="LAST_COMMIT_MESSAGE" value="asspussy" />
+    <MESSAGE value="cuck xd" />
+    <option name="LAST_COMMIT_MESSAGE" value="cuck xd" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

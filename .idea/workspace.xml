@@ -4,14 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1b7e37c4-055c-4426-a006-7a7e8bb9d7b6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/prog2/uwu/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/json/theDungeon.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/textures/tilemap_packed.png" afterDir="false" />
+    <list default="true" id="1b7e37c4-055c-4426-a006-7a7e8bb9d7b6" name="Changes" comment="asspussy">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/prog2/uwu/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/prog2/uwu/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,9 +42,9 @@
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "/Users/mark/IdeaProjects/webetestin",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
   }
 }]]></component>
@@ -87,8 +84,16 @@
       <updated>1654011900201</updated>
       <workItem from="1654012028473" duration="2918000" />
       <workItem from="1654019731907" duration="773000" />
-      <workItem from="1654020558963" duration="1589000" />
+      <workItem from="1654020558963" duration="3916000" />
     </task>
+    <task id="LOCAL-00001" summary="asspussy">
+      <created>1654022777527</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1654022777528</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,6 +109,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="asspussy" />
+    <option name="LAST_COMMIT_MESSAGE" value="asspussy" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

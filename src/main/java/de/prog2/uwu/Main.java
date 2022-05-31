@@ -7,8 +7,8 @@ public class Main extends GameApplication {
 
     @Override
     protected void initSettings(GameSettings settings){
-        settings.setWidth(720);
-        settings.setHeight(1280);
+        settings.setWidth(1280);
+        settings.setHeight(720);
     }
 
     public static void main(String[] args) {
